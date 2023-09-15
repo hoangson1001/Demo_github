@@ -7,6 +7,8 @@
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+<span><img src="https://img.shields.io/badge/Android%20studio-282C34?logo=androidstudio&logoColor=15b659" title="Android studio" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>

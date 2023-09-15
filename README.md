@@ -9,7 +9,7 @@
 <br>
 <span><img src="https://img.shields.io/badge/Android%20studio-282C34?logo=androidstudio&logoColor=15b659" title="Android studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=sharp&logoColor=1572B6" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=sharp&logoColor=99CC00" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS" height="25" /></span>
 &nbsp;
